@@ -109,3 +109,8 @@ All players are required to read the rules and stay updated on any changes.
 - Banned from the guild entirely
 # Respect & Professionalism
 - Players who submit tickets are required to maintain a level of courtesy and professionalism towards the community moderators and staff team. We will not tolerate any disrespect, name-calling, or any hostility in the tickets. 
+
+
+
+
+- want to say thank you to FKK for the rules formatting structure
